@@ -1,13 +1,13 @@
-# John Haythorn
+## John Haythorn
 ### Junior Software Engineer
 **After a varied work history in a number of employment sectors, embarking on a new career as a software developer. Currently employed by BGL Group**
 
-# Skills
+## Skills
 **Ruby**
 
 Beginner level. Recently began learning Ruby.
 
-# Experience
+## Experience
 **BGL Group**
 
 *Junior Software Engineer*
@@ -21,7 +21,7 @@ Beginner level. Recently began learning Ruby.
 
 *Claims Advisor*
 
-# Education
+## Education
 *Makers Academy 07/01/19 to 31/03/19*
 Curious and passionate about code. [PROVIDE EVIDENCE]
 
