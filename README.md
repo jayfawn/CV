@@ -1,5 +1,6 @@
 # John Haythorn
-A sentence about who and what you are. Then a sentence about what you've achieved. And then a sentence about what you're looking for: what you would ideally be doing, with whom and in what environment.
+### Junior Software Engineer
+** After a varied work history in a number of employment sectors, embarking on a new career as a software developer. **
 
 # Skills
 This Skill
