@@ -3,11 +3,11 @@
 **After a varied work history in a number of employment sectors, embarking on a new career as a software developer. Currently employed by BGL Group**
 
 # Skills
-**Ruby**/n
+**Ruby**/r
 Beginner level. Recently began learning Ruby.
 
 # Experience
-**BGL Group**/n
+**BGL Group**/r
 *Junior Software Engineer*
 
 *Support Analyst*
@@ -15,7 +15,7 @@ Beginner level. Recently began learning Ruby.
 *Life Consultant*
 
 
-**Cardif Pinnacle**/n
+**Cardif Pinnacle**/r
 *Claims Advisor*
 
 # Education
