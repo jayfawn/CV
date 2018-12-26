@@ -1,11 +1,11 @@
-John Haythorn
+# John Haythorn
 A sentence about who and what you are. Then a sentence about what you've achieved. And then a sentence about what you're looking for: what you would ideally be doing, with whom and in what environment.
 
-Skills
+# Skills
 This Skill
 Descriptive paragraph of how capable you are at this skill and, if relevant, how it has developed.
 
-Experience
+# Experience
 Achievements
 Evidence
 Another Skill
