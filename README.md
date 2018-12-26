@@ -1,9 +1,9 @@
 # John Haythorn
 ### Junior Software Engineer
-**After a varied work history in a number of employment sectors, embarking on a new career as a software developer.**
+**After a varied work history in a number of employment sectors, embarking on a new career as a software developer. Currently employed by BGL Group**
 
 # Skills
-This Skill
+Ruby
 Descriptive paragraph of how capable you are at this skill and, if relevant, how it has developed.
 
 # Experience
