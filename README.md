@@ -1,6 +1,6 @@
 # John Haythorn
 ### Junior Software Engineer
-** After a varied work history in a number of employment sectors, embarking on a new career as a software developer. **
+**After a varied work history in a number of employment sectors, embarking on a new career as a software developer.**
 
 # Skills
 This Skill
